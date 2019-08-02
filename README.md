@@ -1,6 +1,8 @@
 # Paypal-BackEnd
 
 a backend service that provide 
-##1 usesr with menu options(with price)
-##2 user authentication
-##3 redirect user to external link for payment
+<p>1 usesr with menu options(with price) </p>
+<p>2 user authentication </p>
+<p>3 redirect user to external site for secure payment
+<p>4 store user data and order history </p>
+
